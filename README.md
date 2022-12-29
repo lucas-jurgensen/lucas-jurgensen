@@ -22,7 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=lucas-jurgensen&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lucas jurgensen) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lucasjurgensen) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

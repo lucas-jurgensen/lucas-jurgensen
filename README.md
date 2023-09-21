@@ -1,6 +1,6 @@
 
 📚 Aprendendo programação<br>
-💻 Interessado em Full-Stack ou apenas Front-End
+💻 Rumo ao Full-Stack!
 
 
 ## 🌐 Socials:

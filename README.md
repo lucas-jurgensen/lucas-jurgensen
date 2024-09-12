@@ -18,6 +18,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:lucasjurgensenr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/lucasjurgensen/)
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-jurgensen&theme=tokyonight&show_icons=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-jurgensen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />

@@ -2,6 +2,7 @@
 
 **Minhas skills**
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-jurgensen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
+
 ![C](https://img.shields.io/badge/-C-303030?logo=c&logoColor=00599C&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-303030?logo=html5&logoColor=E34F26&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-303030?logo=css3&logoColor=1572B6&style=flat)

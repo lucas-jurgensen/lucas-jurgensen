@@ -5,7 +5,7 @@
 
 
 ## My name is Lucas Jurgensen
-(Node.js | Express | MySQL | Typescript | Javascript | HTML | CSS ) 
+( Node.js | Express | MySQL | Typescript | Javascript | HTML | CSS ) 
 - 🎓 Studying Computer Science  
 - 🔧 Passionate about backend development  
 - 🚀 Open to new challenges

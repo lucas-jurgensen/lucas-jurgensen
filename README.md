@@ -10,7 +10,7 @@
 
 <h2>Hi, I'm Lucas Jurgensen 👨‍💻</h2>
 
-<p><strong>Tech Stack:</strong> Node.js | Express | MySQL | PostgreSQL | MongoDB | TypeScript | JavaScript </p>
+<p><strong>Tech Stack:</strong> Node.js | Express | SQL | NoSQL | TypeScript | JavaScript </p>
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-jurgensen&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 

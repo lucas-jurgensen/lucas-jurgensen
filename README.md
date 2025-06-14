@@ -4,6 +4,8 @@ Sou um desenvolvedor entusiasta em backend, apaixonado por aprender e construir 
 
 ### TypeScript | JavaScript | Java | SQL | HTML & CSS
 
+Atualmente estou estudando Java 
+
 ## Contato
 
 Entre em contato comigo via: [LinkedIn](https://www.linkedin.com/in/lucasjur) | lucasjurgensenr@gmail.com 

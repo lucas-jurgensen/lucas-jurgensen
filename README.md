@@ -8,4 +8,4 @@ Atualmente estou estudando Java
 
 ## Contato
 
-Entre em contato comigo via: [LinkedIn](https://www.linkedin.com/in/lucasjur) | lucasjurgensenr@gmail.com 
+Entre em contato comigo via: [LinkedIn](https://www.linkedin.com/in/lucasjurgensenr/) | lucasjurgensenr@gmail.com 

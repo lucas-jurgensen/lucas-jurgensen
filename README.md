@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor entusiasta em backend, apaixonado por aprender e construir soluções eficientes.
 
-### TypeScript | JavaScript | Java | SQL | HTML & CSS
+### Java | SQL | TypeScript 
 
 Atualmente estou estudando Java 
 

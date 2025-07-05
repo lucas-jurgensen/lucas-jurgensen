@@ -4,7 +4,7 @@ Sou um desenvolvedor entusiasta em backend, apaixonado por aprender e construir 
 
 ### Java | SQL | TypeScript 
 
-Atualmente estou estudando Java 
+Escrevo artigos e experiências no [Medium](https://medium.com/@lucas.jurgensen)
 
 ## Contato
 

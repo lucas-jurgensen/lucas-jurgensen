@@ -1,11 +1,33 @@
-# Olá, eu sou o Lucas
+<div align="center">
 
-Sou um desenvolvedor entusiasta em backend, apaixonado por aprender e construir soluções eficientes.
+<h2></h2>
 
-### Java | SQL | TypeScript 
+<samp># about</samp>
 
-Escrevo artigos e experiências no [Medium](https://medium.com/@lucas.jurgensen)
+<samp>backend dev - tech lover - always searching for knowledge</samp>
 
-## Contato
+<h2></h2><br>
 
-Entre em contato comigo via: [LinkedIn](https://www.linkedin.com/in/lucasjurgensenr/) | lucasjurgensenr@gmail.com 
+<samp># links</samp>
+
+<p align="center">
+    <samp>
+      [<a href="mailto:lucasjurgensenr@gmail.com">gmail</a>]
+      [<a href="https://www.linkedin.com/in/lucasjur">linkedin</a>]
+      [<a href="https://medium.com/@lucas.jurgensen">medium</a>]
+    </samp>
+</p>
+
+<h2></h2><br>
+
+<samp># stack</samp>
+
+<samp>java/spring | python/django | nodejs | docker | sql & nosql | git</samp>
+
+<h2></h2><br>
+
+```console
+> may the force be with you
+```
+
+</div>

@@ -22,7 +22,7 @@
 
 <samp># stack</samp>
 
-<samp>java/spring | python/django | nodejs | docker | sql & nosql | git</samp>
+<samp>java/spring | nodejs & express | sql & nosql | kafka & rabbitmq | docker</samp>
 
 <h2></h2><br>
 
